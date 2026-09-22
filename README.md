@@ -1,0 +1,2 @@
+# Cribl_Data_Onboarding_Cato_Firewall_SIEM
+Cato Firewall Log Onboarding
